@@ -8,8 +8,8 @@
 
 * Physics
   * [Entropy of Encrypted Data](https://github.com/Jim137/Entropy)📳
-  * [Ising-Model-Based Algorithm for Othello Strategy](https://github.com/Jim137/IMBA_Othello)🛸🛠️ -- worked with [@wen033240](https://github.com/wen033240)
-  * [Quantum Simulation for Ising Model](https://github.com/Jim137/QuantumSimulation_IsingModel)🛠️ -- worked with [@ToelUl](https://github.com/ToelUl)
+  * [Ising-Model-Based Algorithm for Othello Strategy](https://github.com/Jim137/IMBA_Othello)🛸🛠️ -- collaborated with [@wen033240](https://github.com/wen033240)
+  * [Quantum Simulation for Ising Model](https://github.com/Jim137/QuantumSimulation_IsingModel)🛠️ -- collaborated with [@ToelUl](https://github.com/ToelUl)
 * Tools
   * [Tenhou Paifu Logger](https://github.com/Jim137/Tenhou-Paifu-Logger)📈🛠️
 * Translations
