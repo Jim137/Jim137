@@ -4,7 +4,7 @@
 
 ---
 
-## 🔭 My Public Works on GitHub
+## 🔭 My Works on GitHub
 
 * Physics
   * [Entropy of Encrypted Data](https://github.com/Jim137/Entropy)📳
@@ -47,5 +47,5 @@
   </a>
 </p>
 <p align="center">
-    <img align="center" src="https://github.com/Jim137/Jim137/blob/output/github-contribution-grid-snake.svg"/>
+    <img align="center" src="https://github.com/Jim137/Jim137/blob/output/github-contribution-grid-snake-dark.svg"/>
 </p>
