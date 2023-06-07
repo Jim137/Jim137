@@ -1,4 +1,8 @@
-### Hi there 👋
+# [Jim137](https://github.com/Jim137)
+
+<p align="center">
+<img align="center" src="https://github.com/Jim137/Jim137/blob/output/github-contribution-grid-snake.svg"/>
+</p>
 
 <!--
 **Jim137/Jim137** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
