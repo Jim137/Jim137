@@ -1,4 +1,4 @@
-# [Jim137](https://github.com/Jim137)
+# [J.-C. Jiang](https://github.com/Jim137)
 
 ### "What I cannot create, I do not understand." -- Richard Feynman
 
