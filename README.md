@@ -28,6 +28,11 @@
 * Quantum Computing
 * Superconducting Qubits -->
 
+## 🥼 Social
+
+* [🧭My own website](https://www.jim137.eu.org/)
+* [📩jim@mail.jim137.eu.org](mailto:jim@mail.jim137.eu.org)
+
 <h2 align="center">Github Info</h2>
 <p align="center">
   <a href="https://github.com/Jim137">
