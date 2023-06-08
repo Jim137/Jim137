@@ -4,6 +4,10 @@
 
 ---
 
+Welcome to my GitHub homepage.
+
+[🧭My Website](https://www.jim137.eu.org/) | [About Me](https://www.jim137.eu.org/about/)
+
 ## 🔭 My Works on GitHub
 
 * Physics
@@ -23,17 +27,8 @@
 
 📳: End of development but any issues are welcome.
 
-<!-- ## 🔬 My Research Interests
+---
 
-* Quantum Computing
-* Superconducting Qubits -->
-
-## 🥼 Social
-
-* [🧭My own website](https://www.jim137.eu.org/)
-* [📩jim@mail.jim137.eu.org](mailto:jim@mail.jim137.eu.org)
-
-<h2 align="center">Github Info</h2>
 <p align="center">
   <a href="https://github.com/Jim137">
     <img align="center"
