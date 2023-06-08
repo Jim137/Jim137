@@ -47,5 +47,5 @@
   </a>
 </p>
 <p align="center">
-    <img align="center" src="https://github.com/Jim137/Jim137/blob/output/github-contribution-grid-snake-dark.svg"/>
+    <img align="center" src="https://github.com/Jim137/Jim137/blob/output/github-contribution-grid-snake.svg"/>
 </p>
