@@ -17,7 +17,7 @@ Welcome to my GitHub homepage.
 * Tools
   * [Tenhou Paifu Logger](https://github.com/Jim137/Tenhou-Paifu-Logger)📈🛠️
 * Translations
-  * [ykundesu/SuperNewRoles](https://github.com/ykundesu/SuperNewRoles)🛠️
+  * [ykundesu/SuperNewRoles](https://github.com/ykundesu/SuperNewRoles)🛠️ (Traditional Chinese)
 
 📈: Keep updating and developing new features.
 
