@@ -20,13 +20,16 @@ Welcome to my GitHub homepage.
 * Translations
   * [SuperNewRoles/SuperNewRoles](https://github.com/SuperNewRoles/SuperNewRoles)🛠️ (Traditional Chinese)
 
-📈: Keep updating and developing new features.
-
-🛠️: Keep maintaining.
-
-🛸: Plan to develop new features.
-
-📳: End of development but any issues are welcome.
+> [!NOTE]
+> 
+> 📈: Keep updating and developing new features.
+> 
+> 🛠️: Keep maintaining.
+>
+> 🛸: Plan to develop new features.
+>
+> 📳: End of development but any issues are welcome.
+> 
 
 ---
 
