@@ -6,6 +6,8 @@
 
 Welcome to my GitHub homepage.
 
+Interested in Quantum Information, Quantum Computing and Cryptography.
+
 [🧭My Website](https://www.jim137.eu.org/) | [About Me](https://www.jim137.eu.org/about/)
 
 ## 🔭 My Works on GitHub
