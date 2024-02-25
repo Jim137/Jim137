@@ -6,7 +6,7 @@
 
 Welcome to my GitHub homepage.
 
-Interested in Quantum Information, Quantum Computing and Cryptography.
+Interested in Quantum Information, Quantum Computing and Information Theory.
 
 [🧭My Website](https://www.jim137.eu.org/) | [About Me](https://www.jim137.eu.org/about/)
 
@@ -35,6 +35,8 @@ Interested in Quantum Information, Quantum Computing and Cryptography.
 > 
 
 ---
+<details>
+<summary>My GitHub Stats</summary>
 
 <p align="center">
   <a href="https://github.com/Jim137">
@@ -51,3 +53,5 @@ Interested in Quantum Information, Quantum Computing and Cryptography.
 <p align="center">
     <img align="center" src="https://github.com/Jim137/Jim137/blob/output/github-contribution-grid-snake.svg"/>
 </p>
+
+</details>
