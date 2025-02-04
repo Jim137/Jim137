@@ -12,12 +12,14 @@ Interested in Quantum Information, Quantum Computing and Information Theory.
 
 ## 🔭 My Contributions on GitHub
 
+* Quantum Computing
+  * [HSUYUCHAO/2025_MIT-QuantumRing_Remote](https://github.com/HSUYUCHAO/2025_MIT-QuantumRing_Remote): Quantum Factorization -- contributing as a team member
+  * [Quantum Simulation for Ising Model](https://github.com/Jim137/QuantumSimulation_IsingModel)🛠️ -- collaborated with [@ToelUl](https://github.com/ToelUl)
 
 * Physics
   * [Entropy of Encrypted Data](https://github.com/Jim137/Entropy)📳
   * [Binocular Balance/Deprivation through Hebbian Learning and BCM Theory](https://github.com/Jim137/binocular_balance)🛠️
   * [Ising-Model-Based Algorithm for Othello Strategy](https://github.com/Jim137/IMBA_Othello)🛠️🛸 -- collaborated with [@wenwenwenning](https://github.com/wenwenwenning)
-  * [Quantum Simulation for Ising Model](https://github.com/Jim137/QuantumSimulation_IsingModel)🛠️ -- collaborated with [@ToelUl](https://github.com/ToelUl)
   <!-- * [A lose-to-reality physical modeling of billiard balls](https://github.com/Jim137/2D_Billiard) 📈WIP -->
 
 </details>
