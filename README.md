@@ -12,6 +12,9 @@ Interested in Quantum Information, Quantum Computing and Information Theory.
 
 ## 🔭 My Contributions on GitHub
 
+* Quantum Machine Learning
+  * [Quantum-inspired Kolmogorov-Arnold Networks](https://github.com/Jim137/qkan): Preprint available at [arXiv:2509.14026](https://www.arxiv.org/abs/2509.14026)
+
 * Quantum Computing
   * [HSUYUCHAO/2025_MIT-QuantumRing_Remote](https://github.com/HSUYUCHAO/2025_MIT-QuantumRing_Remote): Quantum Factorization -- contributing as a team member
   * [Quantum Simulation for Ising Model](https://github.com/Jim137/QuantumSimulation_IsingModel)🛠️ -- collaborated with [@ToelUl](https://github.com/ToelUl)
