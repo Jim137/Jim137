@@ -6,7 +6,8 @@
 
 Welcome to my GitHub homepage.
 
-Interested in Quantum Information, Quantum Computing and Information Theory.
+Interested in Quantum Information, Quantum Computing, and Information Theory.
+Current research directions are Quantum Machine Learning, Quantum-enhanced LLM, and QML4Science.
 
 [🧭My Website](https://www.jim137.eu.org/) | [About Me](https://www.jim137.eu.org/about/)
 
@@ -17,27 +18,29 @@ Interested in Quantum Information, Quantum Computing and Information Theory.
 
 * Quantum Computing
   * [HSUYUCHAO/2025_MIT-QuantumRing_Remote](https://github.com/HSUYUCHAO/2025_MIT-QuantumRing_Remote): Quantum Factorization -- contributing as a team member
-  * [Quantum Simulation for Ising Model](https://github.com/Jim137/QuantumSimulation_IsingModel)🛠️ -- collaborated with [@ToelUl](https://github.com/ToelUl)
+  * [Quantum Simulation for Ising Model](https://github.com/Jim137/QuantumSimulation_IsingModel) -- collaborated with [@ToelUl](https://github.com/ToelUl)
 
 * Physics
-  * [Entropy of Encrypted Data](https://github.com/Jim137/Entropy)📳
-  * [Binocular Balance/Deprivation through Hebbian Learning and BCM Theory](https://github.com/Jim137/binocular_balance)🛠️
-  * [Ising-Model-Based Algorithm for Othello Strategy](https://github.com/Jim137/IMBA_Othello)🛠️🛸 -- collaborated with [@wenwenwenning](https://github.com/wenwenwenning)
+  * [Entropy of Encrypted Data](https://github.com/Jim137/Entropy)
+  * [Binocular Balance/Deprivation through Hebbian Learning and BCM Theory](https://github.com/Jim137/binocular_balance)
+  * [Ising-Model-Based Algorithm for Othello Strategy](https://github.com/Jim137/IMBA_Othello) -- collaborated with [@wenwenwenning](https://github.com/wenwenwenning)
   <!-- * [A lose-to-reality physical modeling of billiard balls](https://github.com/Jim137/2D_Billiard) 📈WIP -->
 
 </details>
 <details>
 <summary>Tools</summary>
 
-  * [Tenhou Paifu Logger](https://github.com/Jim137/Tenhou-Paifu-Logger)📈🛠️
+  * [Tenhou Paifu Logger](https://github.com/Jim137/Tenhou-Paifu-Logger)
 
 </details>
 <details>
 <summary>Translations</summary>
 
-  * [SuperNewRoles/SuperNewRoles](https://github.com/SuperNewRoles/SuperNewRoles)🛠️: Traditional Chinese Localization
+  * [SuperNewRoles/SuperNewRoles](https://github.com/SuperNewRoles/SuperNewRoles): Traditional Chinese Localization
 
 </details>
+
+<!--
 
 > [!NOTE]
 > 
@@ -48,7 +51,9 @@ Interested in Quantum Information, Quantum Computing and Information Theory.
 > 🛸: Plan to develop new features.
 >
 > 📳: End of development but any issues are welcome.
-> 
+>
+
+-->
 
 ---
 <details>
